@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">danielobafisoye_challenge2</string>
+    <string name="btn_palindrome">Check for Palindrome</string>
+    <string name="btn_pandram">Check for Pangram</string>
+</resources>
